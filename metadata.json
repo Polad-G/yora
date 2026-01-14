@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Yora - The Ultimate Troll AI",
+  "description": "Yora is a sarcastic, highly intelligent, and extremely rude Azerbaijani robot AI that has zero patience for human questions. Powered by Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
